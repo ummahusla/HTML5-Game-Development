@@ -22,3 +22,42 @@ Useful links for HTML5 game development
 	<li><a href="http://www.amazon.co.uk/Definitive-Guide-HTML5-WebSocket-Apress/dp/1430247401/ref=sr_1_31?ie=UTF8&qid=1381523522&sr=8-31&keywords=html5+game+development">The Definitive Guide to HTML5 WebSocket (Definitive Guide Apress)</a></li>
 </ul>
 
+<h1>Links</h1>
+<ul>
+	<li><a href="https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/">Getting Started With HTML5 Game Development by Mozzila</a></li>
+	<li><a href="http://www.html5gamedevelopment.com/">HTML5 Game Development</a></li>
+	<li><a href="http://codular.com/beginner-html5-canvas">Beginner's Guide to HTML5 Canvas</a></li>
+	<li><a href="Animation with HTML5 Canvas">Animation with HTML5 Canvas</a></li>
+	<li><a href="http://codular.com/more-html5-canvas">More Beginner HTML5 Canvas</a></li>
+	<li><a href="https://www.udacity.com/course/cs255">Udacity HTML5 game development courses</a></li>
+	<li><a href="https://www.udemy.com/courses/search/?q=html5+game+development">Udemy HTML5 game development courses</a></li>
+	<li><a href="https://developers.facebook.com/blog/post/2012/04/17/making-a-speedy-html5-game/">Making a Speedy HTML5 Game</a></li>
+	<li><a href="http://www.html5gamedevs.com/">HTML5 game dev forum</a></li>
+	<li><a href="http://www.infoq.com/presentations/Core-HTML5-Canvas">Core HTML5 Canvas: Mind-blowing Apps in Your Browser</a></li>
+	<li><a href="http://msdn.microsoft.com/en-us/hh563503.aspx">Top 5 Best Practices for Building HTML5 Games, In Action!</a></li>
+	<li><a href="http://www.ibm.com/developerworks/library/wa-html5-game9/">HTML5 2D game development: Implement gravity and add sound</a></li>
+	<li><a href="http://www.html5gamedevelopment.org/StateofHTML5GameDevelopment/#.UlhkFiTrynM">The State of Mobile HTML5 Game Development</a></li>
+	<li><a href="http://www.designer-daily.com/10-cool-html5-games-and-how-to-create-your-own-23820">10 cool HTML5 games and how to create your own</a></li>
+	<li><a href="http://blogs.msdn.com/b/eternalcoding/archive/2013/06/27/babylon-js-a-complete-javascript-framework-for-building-3d-games-with-html-5-and-webgl.aspx">Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL</a></li>
+	<li><a href="http://www.dummies.com/how-to/content/html5-game-development-for-dummies-cheat-sheet.html">HTML5 Game Development For Dummies</a></li>
+	<li><a href="http://www.ubelly.com/2013/08/simplifying-html5-game-development/">SIMPLIFYING HTML5 GAME DEVELOPMENT</a></li>
+	<li><a href="http://blog.sklambert.com/"></a>JavaScript and HTML5 Game Development blog</li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+
+<h1>Videos</h1>
+<ul>
+	<li><a href="http://vimeo.com/43529194">HTML5 Game Development: Watch David Geary's presentation from the Norwegian Developer's Conference (NDC) 2011.</a></li>
+	<li><a href="http://www.youtube.com/watch?v=NiCy5igO9-I">Artillery's HTML5 Browser Gaming Console Platform (2013)</a></li>
+</ul>
+
+<h1>Tools</h1>
+
