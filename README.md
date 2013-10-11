@@ -42,15 +42,11 @@ Useful links for HTML5 game development
 	<li><a href="http://www.dummies.com/how-to/content/html5-game-development-for-dummies-cheat-sheet.html">HTML5 Game Development For Dummies</a></li>
 	<li><a href="http://www.ubelly.com/2013/08/simplifying-html5-game-development/">SIMPLIFYING HTML5 GAME DEVELOPMENT</a></li>
 	<li><a href="http://blog.sklambert.com/">JavaScript and HTML5 Game Development blog</a></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
+	<li><a href="http://talks.caktusgroup.com/lightning-talks/2012/html5-game-development/#/">HTML5 Game Development talks by Caktus Group</a></li>
+	<li><a href="http://training.bocoup.com/html5-game-dev/">Introduction to HTML5 Game Development</a></li>
+	<li><a href="http://www.spacemonsters.co.uk/">HTML5 Game Design and Development blog</a></li>
+	<li><a href="http://www.script-tutorials.com/html5-game-development-lesson-1/">Developing Your First HTML5 Game – Lesson 1</a></li>
+	<li><a href="http://html5gamedev.samlancashire.com/">HTML5 GAME DEVELOPMENT TUTORIALS</a></li>
 </ul>
 
 <h1>Videos</h1>
@@ -60,4 +56,14 @@ Useful links for HTML5 game development
 </ul>
 
 <h1>Tools</h1>
+<ul>
+	<li><a href="http://www.html5gamedevelopment.com/html5-tools">HTML5 game development tools</a></li>
+	<li><a href="http://clay.io/development-tools">Make Your HTML5 Game Better with Clay.io</a></li>
+	<li><a href="http://developer.html5dev-software.intel.com/?q=node/158">Tools for HTML5 Game Development</a></li>
 
+</ul>
+
+<h1>Engines</h1>
+<ul>
+	<li><a href="http://html5gameengine.com/">List of all HTML5 game engine</a></li>
+</ul>
