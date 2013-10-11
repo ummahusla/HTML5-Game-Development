@@ -5,9 +5,9 @@ Useful links for HTML5 game development
 
 <h1>Books</h1>
 <ul>
-	<li><a href="http://www.amazon.co.uk/HTML5-Games-Creating-CSS3-WebGL/dp/1119975085/ref=sr_1_2?ie=UTF8&qid=1381523354&sr=8-2&keywords=html5+game+development"></a>HTML5 Games: Creating Fun with HTML5, CSS3 and WebGL</li>
+	<li><a href="http://www.amazon.co.uk/HTML5-Games-Creating-CSS3-WebGL/dp/1119975085/ref=sr_1_2?ie=UTF8&qid=1381523354&sr=8-2&keywords=html5+game+development">HTML5 Games: Creating Fun with HTML5, CSS3 and WebGL</a></li>
 	<li><a href="http://www.amazon.co.uk/Core-HTML5-Canvas-Animation-Development/dp/0132761610/ref=sr_1_5?ie=UTF8&qid=1381523354&sr=8-5&keywords=html5+game+development">Core HTML5 Canvas: Volume 1: Graphics, Animation, and Game Development</a></li>
-	<li><a href="http://www.amazon.co.uk/Building-HTML5-Games-ImpactJS-Introduction/dp/1449315178/ref=sr_1_3?ie=UTF8&qid=1381523354&sr=8-3&keywords=html5+game+development"></a>Building HTML5 Games with ImpactJS: An Introduction On HTML5 Game Development</li>
+	<li><a href="http://www.amazon.co.uk/Building-HTML5-Games-ImpactJS-Introduction/dp/1449315178/ref=sr_1_3?ie=UTF8&qid=1381523354&sr=8-3&keywords=html5+game+development">Building HTML5 Games with ImpactJS: An Introduction On HTML5 Game Development</a></li>
 	<li><a href="http://www.amazon.co.uk/HTML5-Game-development-ImpactJS-ebook/dp/B00BFB827Q/ref=sr_1_6?ie=UTF8&qid=1381523354&sr=8-6&keywords=html5+game+development">HTML5 Game development with ImpactJS</a></li>
 	<li><a href="http://www.amazon.co.uk/HTML5-Development-GameMaker-Jason-Elliott/dp/1849694109/ref=sr_1_9?ie=UTF8&qid=1381523354&sr=8-9&keywords=html5+game+development">HTML5 Game Development with GameMaker</a></li>
 	<li><a href="http://www.amazon.co.uk/HTML5-Games-Development-Example-Beginner%2527s/dp/1849691266/ref=sr_1_8?ie=UTF8&qid=1381523354&sr=8-8&keywords=html5+game+development">HTML5 Games Development by Example: Beginner's Guide</a></li>
@@ -41,7 +41,7 @@ Useful links for HTML5 game development
 	<li><a href="http://blogs.msdn.com/b/eternalcoding/archive/2013/06/27/babylon-js-a-complete-javascript-framework-for-building-3d-games-with-html-5-and-webgl.aspx">Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL</a></li>
 	<li><a href="http://www.dummies.com/how-to/content/html5-game-development-for-dummies-cheat-sheet.html">HTML5 Game Development For Dummies</a></li>
 	<li><a href="http://www.ubelly.com/2013/08/simplifying-html5-game-development/">SIMPLIFYING HTML5 GAME DEVELOPMENT</a></li>
-	<li><a href="http://blog.sklambert.com/"></a>JavaScript and HTML5 Game Development blog</li>
+	<li><a href="http://blog.sklambert.com/">JavaScript and HTML5 Game Development blog</a></li>
 	<li></li>
 	<li></li>
 	<li></li>
