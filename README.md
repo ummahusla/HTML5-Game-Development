@@ -27,10 +27,6 @@ Useful links for HTML5 game development
 <ul>
 	<li><a href="https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/">Getting Started With HTML5 Game Development by Mozzila</a></li>
 	<li><a href="http://www.html5gamedevelopment.com/">HTML5 Game Development</a></li>
-	<li><a href="http://codular.com/beginner-html5-canvas">Beginner's Guide to HTML5 Canvas</a></li>
-	<li><a href="Animation with HTML5 Canvas">Animation with HTML5 Canvas</a></li>
-	<li><a href="http://codular.com/more-html5-canvas">More Beginner HTML5 Canvas</a></li>
-	<li><a href="https://www.udacity.com/course/cs255">Udacity HTML5 game development courses</a></li>
 	<li><a href="https://www.udemy.com/courses/search/?q=html5+game+development">Udemy HTML5 game development courses</a></li>
 	<li><a href="https://developers.facebook.com/blog/post/2012/04/17/making-a-speedy-html5-game/">Making a Speedy HTML5 Game</a></li>
 	<li><a href="http://www.html5gamedevs.com/">HTML5 game dev forum</a></li>
@@ -46,7 +42,6 @@ Useful links for HTML5 game development
 	<li><a href="http://talks.caktusgroup.com/lightning-talks/2012/html5-game-development/#/">HTML5 Game Development talks by Caktus Group</a></li>
 	<li><a href="http://training.bocoup.com/html5-game-dev/">Introduction to HTML5 Game Development</a></li>
 	<li><a href="http://www.spacemonsters.co.uk/">HTML5 Game Design and Development blog</a></li>
-	<li><a href="http://www.script-tutorials.com/html5-game-development-lesson-1/">Developing Your First HTML5 Game – Lesson 1</a></li>
 	<li><a href="http://html5gamedev.samlancashire.com/">HTML5 GAME DEVELOPMENT TUTORIALS</a></li>
 </ul>
 
@@ -67,4 +62,15 @@ Useful links for HTML5 game development
 <h1>Engines</h1>
 <ul>
 	<li><a href="http://html5gameengine.com/">List of all HTML5 game engine</a></li>
+</ul>
+
+
+<h1>Tutorials</h1>
+<ul>
+	<li><a href="http://www.codecademy.com/courses/web-beginner-en-SWM11/0/2?curriculum_id=50b91eda28c2fb212300039e">Draw with JavaScript course on CodeCademy.com</a></li>
+	<li><a href="http://www.script-tutorials.com/html5-game-development-lesson-1/">Developing Your First HTML5 Game – Lesson 1</a></li>
+	<li><a href="http://codular.com/beginner-html5-canvas">Beginner's Guide to HTML5 Canvas</a></li>
+	<li><a href="Animation with HTML5 Canvas">Animation with HTML5 Canvas</a></li>
+	<li><a href="http://codular.com/more-html5-canvas">More Beginner HTML5 Canvas</a></li>
+	<li><a href="https://www.udacity.com/course/cs255">Udacity HTML5 game development courses</a></li>
 </ul>
