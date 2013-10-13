@@ -42,7 +42,8 @@ Useful links for HTML5 game development
 	<li><a href="http://talks.caktusgroup.com/lightning-talks/2012/html5-game-development/#/">HTML5 Game Development talks by Caktus Group</a></li>
 	<li><a href="http://training.bocoup.com/html5-game-dev/">Introduction to HTML5 Game Development</a></li>
 	<li><a href="http://www.spacemonsters.co.uk/">HTML5 Game Design and Development blog</a></li>
-	<li><a href="http://www.significant-bits.com/a-laymans-guide-to-projection-in-videogames"></a>A Layman’s Guide to Projection in Videogames</li>
+	<li><a href="http://www.significant-bits.com/a-laymans-guide-to-projection-in-videogames">A Layman’s Guide to Projection in Videogames</a></li>
+
 </ul>
 
 <h1>Videos</h1>
@@ -56,7 +57,7 @@ Useful links for HTML5 game development
 	<li><a href="http://www.html5gamedevelopment.com/html5-tools">HTML5 game development tools</a></li>
 	<li><a href="http://clay.io/development-tools">Make Your HTML5 Game Better with Clay.io</a></li>
 	<li><a href="http://developer.html5dev-software.intel.com/?q=node/158">Tools for HTML5 Game Development</a></li>
-
+	<li><a href="http://gamedev.tutsplus.com/tutorials/level-design/introduction-to-tiled-map-editor/"></a>Introduction to Tiled Map Editor: A Great, Platform-Agnostic Tool for Making Level Maps</li>
 </ul>
 
 <h1>Engines</h1>
@@ -98,4 +99,5 @@ Useful links for HTML5 game development
 	<li><a href="http://codular.com/more-html5-canvas">More Beginner HTML5 Canvas</a></li>
 	<li><a href="https://www.udacity.com/course/cs255">Udacity HTML5 game development courses</a></li>
 	<li><a href="http://html5gamedev.samlancashire.com/">HTML5 GAME DEVELOPMENT TUTORIALS</a></li>
+	<li><a href="http://gamedev.tutsplus.com/articles/how-to-learn/how-to-learn-three-js-for-game-development/">How to Learn Three.js for Game Development</a></li>
 </ul>
