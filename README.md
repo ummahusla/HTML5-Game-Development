@@ -101,3 +101,36 @@ Useful links for HTML5 game development
 	<li><a href="http://html5gamedev.samlancashire.com/">HTML5 GAME DEVELOPMENT TUTORIALS</a></li>
 	<li><a href="http://gamedev.tutsplus.com/articles/how-to-learn/how-to-learn-three-js-for-game-development/">How to Learn Three.js for Game Development</a></li>
 </ul>
+
+<h1>Sprites</h1>
+<ul>
+	<li><a href="http://www.panelmonkey.org">http://www.panelmonkey.org</a>     </li>
+	<li><a href="http://cdiv.sourceforge.net/html/links/linkssprites.htm">http://cdiv.sourceforge.net/html/links/linkssprites.htm</a>     </li>
+	<li><a href="http://www.gamingw.net">http://www.gamingw.net</a>  </li>
+	<li><a href="http://sonikku.com/index.php?pid=spritesheets">http://sonikku.com/index.php?pid=spritesheets</a></li>
+	<li><a href="http://fortunecity.com/lavender/tombstone/174/sprites/id39.htm">http://fortunecity.com/lavender/tombstone/174/sprites/id39.htm</a></li>
+	<li><a href="http://tsgk.captainn.net">http://tsgk.captainn.net</a></li>
+	<li><a href="http://www.hellsoft.net">http://www.hellsoft.net</a>     </li>
+	<li><a href="http://www.videogamesprites.net/">http://www.videogamesprites.net/</a>  </li>
+	<li><a href="http://www.bogleech.com/games.html">http://www.bogleech.com/games.html</a>    </li>
+	<li><a href="http://www.retrogamezone.co.uk/">http://www.retrogamezone.co.uk/</a>  </li>
+	<li><a href="http://www.spriters-resource.com">http://www.spriters-resource.com</a></li>
+</ul>
+
+<h1>Tile Map Editors</h1>
+<ul>
+	<li><a href="http://www.tilemap.co.uk/mappy.php">http://www.tilemap.co.uk/mappy.php</a></li>
+	<li><a href="http://tilestudio.sourceforge.net/">http://tilestudio.sourceforge.net/</a></li>
+</ul>
+
+<h1>3D models</h1>
+<ul>
+	<li><a href="http://www.planetquake.com/polycount">http://www.planetquake.com/polycount</a></li>
+	<li><a href="http://www.3dcafe.com">http://www.3dcafe.com</a></li>
+	<li><a href="http://www.3dm3.com/modelsbank">http://www.3dm3.com/modelsbank</a></li>
+	<li><a href="http://archive3d.net">http://archive3d.net</a></li>
+	<li><a href="http://www.turbosquid.com">http://www.turbosquid.com</a></li>
+	<li><a href="http://www.3dmodelfree.com">http://www.3dmodelfree.com</a></li>
+	<li><a href="http://www.digitalxmodels.com">http://www.digitalxmodels.com</a></li>
+	<li><a href="http://www.galiciacad.com">http://www.galiciacad.com</a></li>
+</ul>
