@@ -25,7 +25,7 @@ Useful links for HTML5 game development
 
 <h1>Links</h1>
 <ul>
-	<li><a href="https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/">Getting Started With HTML5 Game Development by Mozzila</a></li>
+	<li><a href="https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/">Getting Started With HTML5 Game Development by Mozilla</a></li>
 	<li><a href="http://www.html5gamedevelopment.com/">HTML5 Game Development</a></li>
 	<li><a href="https://www.udemy.com/courses/search/?q=html5+game+development">Udemy HTML5 game development courses</a></li>
 	<li><a href="https://developers.facebook.com/blog/post/2012/04/17/making-a-speedy-html5-game/">Making a Speedy HTML5 Game</a></li>
