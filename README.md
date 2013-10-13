@@ -1,7 +1,7 @@
-HTML5-game-development
+HTML5 Game Development Bookmarks
 ======================
 
-Useful links for HTML5 game development
+<a href="http://www.antonoffplus.com/html5-game-development-bookmarks/">Main article</a>
 
 <h1>Books</h1>
 <ul>
