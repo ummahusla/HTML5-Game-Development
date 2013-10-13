@@ -42,7 +42,7 @@ Useful links for HTML5 game development
 	<li><a href="http://talks.caktusgroup.com/lightning-talks/2012/html5-game-development/#/">HTML5 Game Development talks by Caktus Group</a></li>
 	<li><a href="http://training.bocoup.com/html5-game-dev/">Introduction to HTML5 Game Development</a></li>
 	<li><a href="http://www.spacemonsters.co.uk/">HTML5 Game Design and Development blog</a></li>
-	<li><a href="http://html5gamedev.samlancashire.com/">HTML5 GAME DEVELOPMENT TUTORIALS</a></li>
+	<li><a href="http://www.significant-bits.com/a-laymans-guide-to-projection-in-videogames"></a>A Layman’s Guide to Projection in Videogames</li>
 </ul>
 
 <h1>Videos</h1>
@@ -97,4 +97,5 @@ Useful links for HTML5 game development
 	<li><a href="Animation with HTML5 Canvas">Animation with HTML5 Canvas</a></li>
 	<li><a href="http://codular.com/more-html5-canvas">More Beginner HTML5 Canvas</a></li>
 	<li><a href="https://www.udacity.com/course/cs255">Udacity HTML5 game development courses</a></li>
+	<li><a href="http://html5gamedev.samlancashire.com/">HTML5 GAME DEVELOPMENT TUTORIALS</a></li>
 </ul>
