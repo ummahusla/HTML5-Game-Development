@@ -62,6 +62,30 @@ Useful links for HTML5 game development
 <h1>Engines</h1>
 <ul>
 	<li><a href="http://html5gameengine.com/">List of all HTML5 game engine</a></li>
+	<ul>
+		<li><a href="https://www.scirra.com">Construct 2</a></li>
+		<li><a href="http://impactjs.com/">ImpactJS</a></li>
+		<li><a href="http://createjs.com/">EaselJS</a></li>
+		<li><a href="https://github.com/GoodBoyDigital/pixi.js">pixi.js</a></li>
+		<li><a href="http://playcanvas.com/">PlayCanvas</a></li>
+		<li><a href="http://www.yoyogames.com/studio">GameMaker</a></li>
+		<li><a href="http://threejs.org/">Three.js</a></li>
+		<li><a href="http://biz.turbulenz.com/developers">Turbulenz</a></li>
+		<li><a href="http://www.ludei.com/tech/caat">CAAT</a></li>
+		<li><a href="http://lycheejs.org/index.html">lycheeJS</a></li>
+		<li><a href="http://melonjs.org/">melonJS</a></li>
+		<li><a href="http://craftyjs.com/">Crafty</a></li>
+		<li><a href="https://github.com/cocos2d/cocos2d-html5">Cocos2d-X</a></li>
+		<li><a href="http://www.limejs.com/">LimeJS</a></li>
+		<li><a href="http://html5quintus.com/">Quintus</a></li>
+		<li><a href="http://phaser.io/">Phaser</a></li>
+		<li><a href="http://enchantjs.com/">enchant.js</a></li>
+		<li><a href="http://www.clockworkchilli.com/index.php/main/tech">WADE</a></li>
+		<li><a href="http://docs.gameclosure.com/">GC DevKit</a></li>
+		<li><a href="http://frozenjs.com/">FrozenJS</a></li>
+		<li><a href="http://voxeljs.com/">voxel.js</a></li>
+		<li><a href="http://www.isogenicengine.com/">Isogenic Engine</a></li>
+	</ul>
 </ul>
 
 
