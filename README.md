@@ -134,3 +134,13 @@ Useful links for HTML5 game development
 	<li><a href="http://www.digitalxmodels.com">http://www.digitalxmodels.com</a></li>
 	<li><a href="http://www.galiciacad.com">http://www.galiciacad.com</a></li>
 </ul>
+
+<h1>Fonts</h1>
+<ul>
+	<li><a href="http://www.algonet.se/~guld1/freefont.htm">http://www.algonet.se/~guld1/freefont.htm</a></li>
+</ul>	
+
+<h1>Music</h1>
+<ul>
+	<li><a href="http://gh.ffshrine.org/soundtracks/view-all">http://gh.ffshrine.org/soundtracks/view-all</a></li>
+</ul>
