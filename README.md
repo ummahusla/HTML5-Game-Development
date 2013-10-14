@@ -53,10 +53,23 @@
 
 <h1>Tools</h1>
 <ul>
+	<li><a href="http://gamedev.tutsplus.com/tutorials/level-design/introduction-to-tiled-map-editor/"></a>Introduction to Tiled Map Editor: A Great, Platform-Agnostic Tool for Making Level Maps
+	<ul>
+		<li>Tiled Map Editor - Tutorials</li>
+		<li><a href="http://paulsonapps.wordpress.com/2010/06/09/tutorial-tiled-mapeditor-part-1-create-a-tmxtiledmap-game/">Tutorial – Tiled mapEditor Part 1- Create a TMXTiledMap Game</a></li>
+		<li><a href="http://pzuh.blogspot.co.uk/2013/05/citrus-engine-creating-level-using.html">Citrus Engine: Creating Level using Tiled Map Editor</a></li>
+		<li><a href="http://www.parallelrealities.co.uk/2011/10/intermediate-game-tutorial-3-tile-based.html"></a>Intermediate Game Tutorial #3 - A Tile Based Map Editor</li>
+		<li><a href="http://forums.rpgmakerweb.com/index.php?/topic/3331-introductory-guide-to-tiled/">Introductory Guide to Tiled</a></li>
+		<li><a href="https://developer.tizen.org/documentation/articles/how-use-tiled-map-editor-cocos2d-html5"></a>How to use Tiled Map Editor with Cocos2d-html5</li>
+		<li><a href="http://www.youtube.com/watch?v=InDZTbx3PNo">Tiled Tutorial: The Basics - Video</a></li>
+		<li><a href="http://www.youtube.com/watch?v=FqMXI_yWMBs">Flipping tiles using the Tiled map editor</a></li>
+	</ul>
+	</li>
 	<li><a href="http://www.html5gamedevelopment.com/html5-tools">HTML5 game development tools</a></li>
 	<li><a href="http://clay.io/development-tools">Make Your HTML5 Game Better with Clay.io</a></li>
 	<li><a href="http://developer.html5dev-software.intel.com/?q=node/158">Tools for HTML5 Game Development</a></li>
-	<li><a href="http://gamedev.tutsplus.com/tutorials/level-design/introduction-to-tiled-map-editor/"></a>Introduction to Tiled Map Editor: A Great, Platform-Agnostic Tool for Making Level Maps</li>
+	<li><a href="http://pyxeledit.com/">Pyxel Edit</a></li>
+	
 </ul>
 
 <h1>Engines</h1>
