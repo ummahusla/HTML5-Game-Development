@@ -1,7 +1,6 @@
-HTML5 Game Development Bookmarks
+<a href="http://www.antonoffplus.com/html5-game-development-bookmarks/">HTML5 Game Development Bookmarks</a>
 ======================
 
-<a href="http://www.antonoffplus.com/html5-game-development-bookmarks/">Main article</a>
 
 <h1>Books</h1>
 <ul>
