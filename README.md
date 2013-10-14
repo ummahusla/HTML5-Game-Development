@@ -99,6 +99,7 @@
 	<li><a href="https://www.udacity.com/course/cs255">Udacity HTML5 game development courses</a></li>
 	<li><a href="http://html5gamedev.samlancashire.com/">HTML5 GAME DEVELOPMENT TUTORIALS</a></li>
 	<li><a href="http://gamedev.tutsplus.com/articles/how-to-learn/how-to-learn-three-js-for-game-development/">How to Learn Three.js for Game Development</a></li>
+	<li><a href="http://www.sitepoint.com/gaming-battle-on-the-high-seas-part-1/">Gaming: Battle on the High Seas, Part 1</a>
 </ul>
 
 <h1>Sprites</h1>
