@@ -53,7 +53,7 @@
 
 <h1>Tools</h1>
 <ul>
-	<li><a href="http://gamedev.tutsplus.com/tutorials/level-design/introduction-to-tiled-map-editor/"></a>Introduction to Tiled Map Editor: A Great, Platform-Agnostic Tool for Making Level Maps
+	<li><a href="http://gamedev.tutsplus.com/tutorials/level-design/introduction-to-tiled-map-editor/">Introduction to Tiled Map Editor: A Great, Platform-Agnostic Tool for Making Level Maps</a></li>
 	<ul>
 		<li>Tiled Map Editor - Tutorials</li>
 		<li><a href="http://paulsonapps.wordpress.com/2010/06/09/tutorial-tiled-mapeditor-part-1-create-a-tmxtiledmap-game/">Tutorial – Tiled mapEditor Part 1- Create a TMXTiledMap Game</a></li>
