@@ -132,12 +132,6 @@
 	<li><a href="http://www.spriters-resource.com">http://www.spriters-resource.com</a></li>
 </ul>
 
-<h1>Tile Map Editors</h1>
-<ul>
-	<li><a href="http://www.tilemap.co.uk/mappy.php">http://www.tilemap.co.uk/mappy.php</a></li>
-	<li><a href="http://tilestudio.sourceforge.net/">http://tilestudio.sourceforge.net/</a></li>
-</ul>
-
 <h1>3D models</h1>
 <ul>
 	<li><a href="http://www.planetquake.com/polycount">http://www.planetquake.com/polycount</a></li>
