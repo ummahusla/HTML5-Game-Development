@@ -100,6 +100,7 @@
 		<li><a href="http://frozenjs.com/">FrozenJS</a></li>
 		<li><a href="http://voxeljs.com/">voxel.js</a></li>
 		<li><a href="http://www.isogenicengine.com/">Isogenic Engine</a></li>
+		<li><a href="http://www.a-jie.cn/proton/">Proton - HTML5 particle engine</a></li>
 	</ul>
 </ul>
 
