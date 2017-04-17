@@ -30,13 +30,13 @@
 	<li><a href="https://developers.facebook.com/blog/post/2012/04/17/making-a-speedy-html5-game/">Making a Speedy HTML5 Game</a></li>
 	<li><a href="http://www.html5gamedevs.com/">HTML5 game dev forum</a></li>
 	<li><a href="http://www.infoq.com/presentations/Core-HTML5-Canvas">Core HTML5 Canvas: Mind-blowing Apps in Your Browser</a></li>
-	<li><a href="http://msdn.microsoft.com/en-us/hh563503.aspx">Top 5 Best Practices for Building HTML5 Games, In Action!</a></li>
+	<li><a href="https://msdn.microsoft.com/en-us/hh563503.aspx">Top 5 Best Practices for Building HTML5 Games, In Action!</a></li>
 	<li><a href="http://www.ibm.com/developerworks/library/wa-html5-game9/">HTML5 2D game development: Implement gravity and add sound</a></li>
 	<li><a href="http://www.html5gamedevelopment.org/StateofHTML5GameDevelopment/#.UlhkFiTrynM">The State of Mobile HTML5 Game Development</a></li>
 	<li><a href="http://www.designer-daily.com/10-cool-html5-games-and-how-to-create-your-own-23820">10 cool HTML5 games and how to create your own</a></li>
 	<li><a href="http://blogs.msdn.com/b/eternalcoding/archive/2013/06/27/babylon-js-a-complete-javascript-framework-for-building-3d-games-with-html-5-and-webgl.aspx">Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL</a></li>
 	<li><a href="http://www.dummies.com/how-to/content/html5-game-development-for-dummies-cheat-sheet.html">HTML5 Game Development For Dummies</a></li>
-	<li><a href="http://www.ubelly.com/2013/08/simplifying-html5-game-development/">SIMPLIFYING HTML5 GAME DEVELOPMENT</a></li>
+	<li><a href="https://www.microsoft.com/en-GB/developers/articles/simplifying-html5-game-development/">Simplifying HTML5 game development</a></li>
 	<li><a href="http://blog.sklambert.com/">JavaScript and HTML5 Game Development blog</a></li>
 	<li><a href="http://talks.caktusgroup.com/lightning-talks/2012/html5-game-development/#/">HTML5 Game Development talks by Caktus Group</a></li>
 	<li><a href="http://training.bocoup.com/html5-game-dev/">Introduction to HTML5 Game Development</a></li>
