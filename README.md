@@ -135,6 +135,7 @@
 
 <h1>3D models</h1>
 <ul>
+	<li><a href="https://www.yobi3d.com">https://www.yobi3d.com</a></li>
 	<li><a href="http://www.planetquake.com/polycount">http://www.planetquake.com/polycount</a></li>
 	<li><a href="http://www.3dcafe.com">http://www.3dcafe.com</a></li>
 	<li><a href="http://www.3dm3.com/modelsbank">http://www.3dm3.com/modelsbank</a></li>
